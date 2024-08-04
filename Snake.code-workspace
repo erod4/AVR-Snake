@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Test",
+			"path": "../../../../PlatformIO/Projects/Test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"interrupt.h": "c",
+			"play.h": "c",
+			"io.h": "c",
+			"delay.h": "c",
+			"u8g2.h": "c",
+			"i2cmaster.h": "c",
+			"u8x8_avr.h": "c",
+			"lcd.h": "c"
+		}
+	}
+}
